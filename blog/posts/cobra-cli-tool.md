@@ -40,7 +40,7 @@ $ go mod init  github.com/<your-github-username>/sample-dir
 
 今こんな感じ
 
-！[ディレクトリ構造](https://user-images.githubusercontent.com/55518345/93425464-030bc380-f8f5-11ea-90a0-50c4a5384046.png)
+![ディレクトリ構造](https://user-images.githubusercontent.com/55518345/93425464-030bc380-f8f5-11ea-90a0-50c4a5384046.png)
 
 ## Hello World してみる
 
