@@ -39,7 +39,7 @@ macOS なら一択かな？
 絵文字で華やかにしたいのでこちらを採用。
 飽きたらすぐ変えます。
 
-https://github.com/denysdovhan/spaceship-prompt
+[https://github.com/denysdovhan/spaceship-prompt](https://github.com/denysdovhan/spaceship-prompt)
 
 ## テキストエディタは neovim
 
