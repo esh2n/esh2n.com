@@ -1,6 +1,6 @@
 module.exports = {
   title: 'Shunya Endoh',
-  description: 'Commandments for me',
+  description: 'just a memorandum',
   base: '/',
   dest: 'dist/',
   theme: 'ououe',
