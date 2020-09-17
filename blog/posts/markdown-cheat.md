@@ -11,7 +11,7 @@ categories:
 image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 ---
 
-#はじめに
+# はじめに
 
 > これから Qiita を書きたいが、
 > 「 Markdown 記法ってなんだ！？ 」ってレベルの人（自分のことです）のための記事。
@@ -23,7 +23,7 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##コードの挿入
+## コードの挿入
 
 ````
  (空白行)
@@ -33,7 +33,7 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
  (空白行)
 ````
 
-#####例
+##### 例
 
 ```php5:example.php
  echo 'うまくコードが記入できたかな？';
@@ -46,7 +46,8 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##見出し
+## 見出し
+
 \#の数で表現する。
 `#<h1>タグを表します。`
 `##<h2>タグを表します。`
@@ -58,14 +59,16 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##リンクの挿入
+## リンクの挿入
+
 `[コンテンツ](URL)` #####例
 
 > [John Gruber](https://twitter.com/gruber)
 
 ---
 
-##画像の挿入
+## 画像の挿入
+
 `ドラッグ&ドロップ`
 もしくは
 `![alt](URL "タイトル")`
@@ -77,7 +80,8 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##水平線
+## 水平線
+
 `***`
 もしくは
 `---` #####例
@@ -90,14 +94,16 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##打ち消し線
+## 打ち消し線
+
 `~~コンテンツ~~` #####例
 
 > ~~今日の夕食はお寿司です。~~ \*追記 カレーになりました。
 
 ---
 
-##注釈
+## 注釈
+
 `コンテンツ[^1]`
 `[^1]: 注釈内容` #####例
 
@@ -105,7 +111,8 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##テーブル(表)の挿入
+## テーブル(表)の挿入
+
 `column(列) x row(行)` #####例
 `3x2`
 <br>
@@ -121,7 +128,8 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##イタリック体(斜体)
+## イタリック体(斜体)
+
 `*コンテンツ*`
 
 #####例
@@ -130,7 +138,7 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##フォントカラー(文字色)
+## フォントカラー(文字色)
 
 `<font color=[color]> コンテンツ </font>`
 
@@ -140,11 +148,12 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##引用
+## 引用
+
 `>引用文`
 `>>引用文`
 
-#####例
+##### 例
 
 > 引用文
 >
@@ -154,17 +163,17 @@ image: https://teams.qiita.com/wp-content/uploads/2017/12/qiita-1-300x300.png
 
 ---
 
-##エスケープ処理
+## エスケープ処理
 
 `\マークダウン記号`
 
-#####例
+##### 例
 
 > \`code 記法ができないよ〜`
 
 ---
 
-###参考サイト
+### 参考サイト
 
 - [Qiita マークダウン記法 一覧表・チートシート](https://qiita.com/kamorits/items/6f342da395ad57468ae3#%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3%E3%81%AE%E3%82%A8%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%97)
 - [Qiita 書き方メモ](https://qiita.com/hiroyuki_hon/items/f2a779bb295fd12646ab)
