@@ -48,7 +48,7 @@ $ go mod init  github.com/<your-github-username>/sample-dir
 
 > (`Run: ~~`の部分がコメントアウトされているのでアンコメントして`fmt.Println("Hello World")`を追加してください)
 
-```cmd/root.go
+```root.go
   var rootCmd = &cobra.Command{
     Use:   "sample-dir",
     Short: "A brief description of your application",
