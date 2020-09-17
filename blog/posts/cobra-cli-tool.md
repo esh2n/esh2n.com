@@ -110,7 +110,7 @@ $ sample-dir
 
 こんな感じになっていれば ok
 
-![sample-dir](https://user-images.githubusercontent.com/55518345/93426680-7b738400-f8f7-11ea-9618-d87902c79c82.png)
+![sample-dir](https://user-images.githubusercontent.com/55518345/93427242-78c55e80-f8f8-11ea-897b-35ecf04d4a4a.png)
 
 ## 終わりに
 
