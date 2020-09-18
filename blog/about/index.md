@@ -5,4 +5,4 @@ layout: Page
 
 # Coming Soon
 
-:fas-flag:
+:fas-flag: もう少しお待ちください...
