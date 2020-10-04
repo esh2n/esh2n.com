@@ -71,10 +71,10 @@ oni という折衷案もありますがやっぱり neovim。
 
 PC 買い替えなどでいちいち設定するのも面倒なので GitHub 上で管理してます。
 
-https://github.com/shunyaendoh1215/dotfiles
+<https://github.com/shunyaendoh1215/dotfiles>
 
 ## 終わりに
 
 大雑把に紹介したので細かく紹介したいと思います。そのうち
 
-Golang 製のツール peco やら ghq の関数だったりも紹介したいなあ。
+Golang 製のツール peco やら ghq の関数だったりも紹介したいなあと思っています。
