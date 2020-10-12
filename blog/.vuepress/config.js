@@ -17,11 +17,17 @@ module.exports = {
         integrity: 'sha384-xxx',
         crossorigin: 'anonymous',
       },
-      { rel: 'icon', href: '/favicon.ico' },
+      {
+        rel: 'icon',
+        href: '/favicon.ico'
+      },
     ],
   ],
   themeConfig: {
-    defaultTheme: { light: [6, 18], dark: [18, 6] },
+    defaultTheme: {
+      light: [6, 18],
+      dark: [18, 6]
+    },
     showThemeButton: false,
     cover: '/cover.jpg',
     logo: '/logo.png',
@@ -32,16 +38,35 @@ module.exports = {
       createTime: '公開日',
       lastUpdated: '更新日',
     },
-    nav: [
-      { text: 'Home', link: '/' },
-      { text: 'Posts', link: '/posts/' },
-      { text: 'Tags', link: '/tag/' },
-      { text: 'Categories', link: '/category/' },
-      { text: 'About', link: '/about/' },
+    nav: [{
+        text: 'Home',
+        link: '/'
+      },
+      {
+        text: 'Posts',
+        link: '/posts/'
+      },
+      {
+        text: 'Tags',
+        link: '/tag/'
+      },
+      {
+        text: 'Categories',
+        link: '/category/'
+      },
+      {
+        text: 'About',
+        link: '/about/'
+      },
     ],
-    footer: [
-      { text: 'GitHub', link: 'https://github.com/shunyaendoh1215' },
-      { text: 'Twitter', link: 'https://twitter.com/shunya39836817' },
+    footer: [{
+        text: 'GitHub',
+        link: 'https://github.com/shunyaendoh1215'
+      },
+      {
+        text: 'Twitter',
+        link: 'https://twitter.com/shunya39836817'
+      },
     ],
   },
   extendMarkdown: (md) => {
