@@ -24,6 +24,7 @@ module.exports = {
     ],
   ],
   themeConfig: {
+    domain: 'https://www.shunya.ninja',
     defaultTheme: {
       light: [6, 18],
       dark: [18, 6]
@@ -68,6 +69,16 @@ module.exports = {
         link: 'https://twitter.com/shunya39836817'
       },
     ],
+  },
+  plugins: {
+      "sitemap": {
+      hostname: "https://www.shunya.ninja",
+      },
+      'seo': {
+        description: ($page, $site) => $page.frontmatter.description || ($page.excerpt && $page.excerpt.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g, "")) || $site.description || "",
+        title: ($page, $site) => $page.title || $site.title,
+        image: ($page, $site) => $page.frontmatter.image && (($site.themeConfig.domain || '') + $page.frontmatter.image) || 'https://user-images.githubusercontent.com/55518345/95864721-c2428580-0da0-11eb-89a3-e2d37280310f.png'+encodeURIComponent($page.title||$site.title),
+      },
   },
   extendMarkdown: (md) => {
     md.use(require('markdown-it-fontawesome'));
