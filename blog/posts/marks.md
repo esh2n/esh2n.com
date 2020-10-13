@@ -20,6 +20,10 @@ image: https://user-images.githubusercontent.com/55518345/94111973-b8072880-fe7f
 
 [Cobra で CLI ツールを作ろう](https://www.shunya.ninja/posts/cobra-cli-tool.html)
 
+<div align='center'>
+  <img src="https://user-images.githubusercontent.com/55518345/94111973-b8072880-fe7f-11ea-9f29-f1ff18e006a4.jpeg" style="width: 400px">
+</div>
+
 ## 作るに当たっての背景
 
 自分の性格として、新しい技術に対する好奇心が強すぎて足下が疎かになるというか、
@@ -128,7 +132,7 @@ sass
 
 主に[こちらの記事](https://qiita.com/ararie/items/e4d70fadafe0f5a8f28b)を参考に作りました。
 
-```gulpfile.js
+```js
 const gulp = require('gulp');
 const pug = require('gulp-pug');
 const sass = require('gulp-sass');
@@ -246,11 +250,11 @@ gulp.task(
 
 こちらがテンプレートリポジトリ
 
-- https://github.com/shunyaendoh1215/markup-template
+- [https://github.com/shunyaendoh1215/markup-template](https://github.com/shunyaendoh1215/markup-template)
 
 こちらが作成した CLI ツールのリポジトリ
 
-- https://github.com/shunyaendoh1215/marks
+- [https://github.com/shunyaendoh1215/marks](https://github.com/shunyaendoh1215/marks)
 
 以下で使えます。
 
