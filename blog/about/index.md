@@ -64,25 +64,13 @@ layout: Page
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Carrier
 
-<!-- BLOG-POST-LIST:START -->
-
-- [マークアップの環境を一瞬で作りたい!](https://www.shunya.ninja/posts/marks.html)
-- [Cobra で CLI ツールを作ろう](https://www.shunya.ninja/posts/cobra-cli-tool.html)
-- [Google Apps Script を使って SlackBot を作ってみた。](https://www.shunya.ninja/posts/slack-bot.html)
-- [GitHub の複数アカウントをコマンドから操作しよう](https://www.shunya.ninja/posts/github-sub.html)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://www.shunya.ninja/)
+- 2016/4/1 ~ 2020/3/26 University: C, Java, Unity
+- 2019/8/5 ~ 2020/2/2 Cebu: JavaScript, Vue.js, React, PHP, Laravel, Swift, Flutter
+- 2020/2/2 ~ (current) AtGame: Flutter, TypeScript, Firebase
 
 ---
-
-<img align='left' alt='github stats' src='https://github-readme-stats.vercel.app/api?username=shunyaendoh1215&show_icons=true&hide_border=true'/>
-
-<br/>
-
-<img align='left' alt='github stats' src='https://github-readme-stats.vercel.app/api/top-langs/?username=shunyaendoh1215&layout=compact&show_icons=true&hide_border=true'/>
 
 [website]: https://www.shunya.ninja/
 [twitter]: https://twitter.com/da_s1215
