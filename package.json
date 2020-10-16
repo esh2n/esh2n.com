@@ -21,6 +21,8 @@
     "vuepress-plugin-seo": "^0.1.4"
   },
   "dependencies": {
+    "vue-google-adsense": "^1.9.0",
+    "vue-script2": "^2.1.0",
     "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-theme-ououe": "^1.5.2"
   }
