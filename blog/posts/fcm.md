@@ -60,6 +60,7 @@ await admin.messaging().sendToDevice(message.fcmToken, payload, options);
 <div align='center'>
   <img src="https://developer.android.com/images/ui/notifications/heads-up_2x.png?hl=ja" style="width: 200px">
 </div>
+
 こんな感じに。(以下`Heads-up通知`と表記します)
 
 ## 🍎 iOS
