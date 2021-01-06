@@ -71,7 +71,7 @@ oni という折衷案もありますがやっぱり neovim。
 
 PC 買い替えなどでいちいち設定するのも面倒なので GitHub 上で管理してます。
 
-<https://github.com/shunyaendoh1215/dotfiles>
+<https://github.com/esh2n/dotfiles>
 
 ## 終わりに
 

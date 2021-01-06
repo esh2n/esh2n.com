@@ -13,7 +13,7 @@ image: https://user-images.githubusercontent.com/55518345/98099391-d9255500-1ed2
 ---
 
 こんにちは、都内スタートアップにて、Flutter x Firebaseを用いて
-エンジニアインターンをしている遠藤([@shunyaendoh1215](https://twitter.com/shunyaendoh1215))と申します。
+エンジニアインターンをしている遠藤([@esh2n](https://twitter.com/esh2n))と申します。
 
 今回は、`FCM(Firebase Cloud Messaging)`のプッシュ通知を行う際に詰まった点を紹介します。
 

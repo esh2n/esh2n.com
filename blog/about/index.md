@@ -3,10 +3,10 @@ title: About
 layout: Page
 ---
 
-### Shunya Endo ( [shunyaendoh1215](https://github.com/shunyaendoh1215) ) 👋
+### Shunya Endo ( [esh2n](https://github.com/esh2n) ) 👋
 
-[![Website](https://img.shields.io/badge/shunya.ninja-up-sccess?style=for-the-badge)](https://www.shunya.ninja/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/da_s1215?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/da_s1215)
+[![Website](https://img.shields.io/badge/esh2n.com-up-sccess?style=for-the-badge)](https://www.esh2n.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/esh2n?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/esh2n)
 
 ## I'm a Developer in Tokyo.
 
@@ -72,6 +72,6 @@ layout: Page
 
 ---
 
-[website]: https://www.shunya.ninja/
-[twitter]: https://twitter.com/da_s1215
+[website]: https://www.esh2n.com/
+[twitter]: https://twitter.com/esh2n
 [mail]: shunnyaendoh.bz@gmail.com

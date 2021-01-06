@@ -62,17 +62,17 @@ module.exports = {
     ],
     footer: [{
         text: 'GitHub',
-        link: 'https://github.com/shunyaendoh1215'
+        link: 'https://github.com/esh2n'
       },
       {
         text: 'Twitter',
-        link: 'https://twitter.com/shunya39836817'
+        link: 'https://twitter.com/esh2n'
       },
     ],
   },
   plugins: {
       "sitemap": {
-      hostname: "https://www.shunya.ninja",
+      hostname: "https://www.esh2n.com",
       },
       'seo': {
         description: ($page, $site) => $page.frontmatter.description || ($page.excerpt && $page.excerpt.replace(/<("[^"]*"|'[^']*'|[^'">])*>/g, "")) || $site.description || "",

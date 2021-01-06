@@ -250,17 +250,17 @@ gulp.task(
 
 こちらがテンプレートリポジトリ
 
-- [https://github.com/shunyaendoh1215/markup-template](https://github.com/shunyaendoh1215/markup-template)
+- [https://github.com/esh2n/markup-template](https://github.com/esh2n/markup-template)
 
 こちらが作成した CLI ツールのリポジトリ
 
-- [https://github.com/shunyaendoh1215/marks](https://github.com/shunyaendoh1215/marks)
+- [https://github.com/esh2n/marks](https://github.com/esh2n/marks)
 
 以下で使えます。
 
 ```sh
 // installation
-$ go get -u github.com/shunyaendoh1215/marks
+$ go get -u github.com/esh2n/marks
 
 // init project
 $ marks init -d <dirname>
