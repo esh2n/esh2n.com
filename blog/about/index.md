@@ -3,68 +3,37 @@ title: About
 layout: Page
 ---
 
-### Shunya Endo ( [esh2n](https://github.com/esh2n) ) 👋
+### 👨 shunya endo ([@esh2n](https://github.com/esh2n))
 
 [![Website](https://img.shields.io/badge/esh2n.com-up-sccess?style=for-the-badge)](https://www.esh2n.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/esh2n?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/esh2n)
 
-## I'm a Developer in Tokyo.
-
-- 🎯 I'm focusing on everything.
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Improve my skills and became a professional.
-- ⚡ Fun fact: I love to watch break dancing.
-
-### Connect with me:
-
-[<img align="left" alt="shunya.ninja" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mail" width="22px" src="https://simpleicons.org/icons/gmail.svg" />][mail]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-
-<img align="left" alt="Vue.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
-
-<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/ccc16358ac4530c6a69b1b80c7223cd2744dea83/topics/php/php.png" />
-
-<img align="left" alt="Laravel" width="26px" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br />
-<br />
+Software Engineer in Tokyo.
 
 ---
 
-### 📕 Carrier
+#### 💻 Skills
+
+|   Mainly use   |       Hobby level       | Interest |
+| :------------: | :---------------------: | :------: |
+|  Flutter/Dart  |          Deno           |   wasm   |
+|  Firebase/GCP  | React/Next.js/Gatsby.js |   gRPC   |
+|   TypeScript   |         Vue.js          |   Rust   |
+|    Node.js     |       PHP/Laravel       |   DDD    |
+| GitHub Actions |   Swift w/ StoryBoard   |   SDD    |
+|       -        |         Docker          |    -     |
+|       -        |           AWS           |    -     |
+
+---
+
+#### ⚽️ Hobbies
+
+- Game
+- Break Dancing
+
+---
+
+#### 📕 Carrier
 
 - 2016/4/1 ~ 2020/3/26 University: C, Java, Unity
 - 2019/8/5 ~ 2020/2/2 Cebu: JavaScript, Vue.js, React, PHP, Laravel, Swift, Flutter
