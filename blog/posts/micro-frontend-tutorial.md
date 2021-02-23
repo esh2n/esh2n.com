@@ -45,47 +45,51 @@ Header などの共通部分を React で、新たにイベントページを作
 container/webpack.config.js ファイルにて
 
 ```js
-	mode: 'development',
-	devServer: {
-		port: 8080,
-		historyApiFallback: {
-			index: 'index.html'
-		}
-	},
-	plugins: [
-		new ModuleFederationPlugin({
-			name: 'container',
-			remotes: {
-				header: 'header@http://localhost:8081/remoteEntry.js',
-			},
-			shared: packageJson.dependencies
-		}),
-	]
+{
+  mode: 'development',
+  devServer: {
+    port: 8080,
+    historyApiFallback: {
+      index: 'index.html'
+    }
+  },
+  plugins: [
+    new ModuleFederationPlugin({
+      name: 'container',
+      remotes: {
+        header: 'header@http://localhost:8081/remoteEntry.js',
+      },
+      shared: packageJson.dependencies
+    }),
+  ]
+}
 ```
 
 header/webpack.config.js ファイルにて
 
 ```js
-	mode: 'development',
-	devServer: {
-		port: 8081,  // port変える
-		historyApiFallback: {
-			index: 'index.html'
-		}
-	},
-	plugins: [
-		new ModuleFederationPlugin({
-			name: 'header',
-			filename: 'remoteEntry.js',
-			exposes: {
-				'./Header': './src/bootstrap'
-			},
-			shared: packageJson.dependencies
-		}),
-		new HtmlWebpackPlugin({
-			template: './public/index.html'
-		})
-	]
+{
+  mode: 'development',
+  devServer: {
+    port: 8081,  // port変える
+    historyApiFallback: {
+      index: 'index.html'
+    }
+  },
+  plugins: [
+    new ModuleFederationPlugin({
+      name: 'header',
+      filename: 'remoteEntry.js',
+      exposes: {
+        './Header': './src/bootstrap'
+      },
+      shared: packageJson.dependencies
+    }),
+    new HtmlWebpackPlugin({
+      template: './public/index.html'
+    })
+  ]
+}
 ```
 
 今回 container 側は React にしています。<br/>
