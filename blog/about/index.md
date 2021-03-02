@@ -21,7 +21,7 @@ Software Engineer in Tokyo.
 |   TypeScript   |         Vue.js          |   Rust   |
 |    Node.js     |       PHP/Laravel       |   DDD    |
 | GitHub Actions |   Swift w/ StoryBoard   |   SDD    |
-|       -        |         Docker          |    -     |
+|       -        |         Docker          |   Elm    |
 |       -        |           AWS           |    -     |
 
 ---
